@@ -1,7 +1,5 @@
 ## Admin Template Go Fiber API
 
----
-
 ### 소개
 > Admin Template Go Fiber API 는 백엔드 API 제작에 필요한 기본 구조를 제공합니다.
 - [Go](https://go.dev)
